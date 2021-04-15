@@ -1,0 +1,61 @@
+# CIF file created by FINDSYM, version 7.1.1
+
+data_findsym-output
+_audit_creation_method FINDSYM
+
+_cell_length_a    5.9113998413
+_cell_length_b    6.1982998848
+_cell_length_c    6.5785999298
+_cell_angle_alpha 92.6999969482
+_cell_angle_beta  91.0000000003
+_cell_angle_gamma 93.0999984744
+_cell_volume      240.3757783688
+
+_symmetry_space_group_name_H-M "P 1"
+_symmetry_Int_Tables_number 1
+_space_group.reference_setting '001:P 1'
+_space_group.transform_Pp_abc a,b,c;0,0,0
+
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_fract_symmform
+C1  C   1 a 0.24471  0.64393  0.33916  1.00000 Dx,Dy,Dz 
+C2  C   1 a 0.29741  0.22355  0.66494  1.00000 Dx,Dy,Dz 
+C3  C   1 a 0.72364  0.12946  0.33908  1.00000 Dx,Dy,Dz 
+N1  N   1 a 0.80061  0.35245  0.29918  1.00000 Dx,Dy,Dz 
+N2  N   1 a 0.29569  0.83993  0.22389  1.00000 Dx,Dy,Dz 
+N3  N   1 a 0.21108  0.25209  0.87254  1.00000 Dx,Dy,Dz 
+H1  H   1 a 0.85746  0.03538  0.40381  1.00000 Dx,Dy,Dz 
+H2  H   1 a 0.66430  0.04692  0.19452  1.00000 Dx,Dy,Dz 
+H3  H   1 a 0.58125  0.13190  0.44407  1.00000 Dx,Dy,Dz 
+H4  H   1 a -0.06686 0.35443  0.20090  1.00000 Dx,Dy,Dz 
+H5  H   1 a 0.85617  0.43294  0.43200  1.00000 Dx,Dy,Dz 
+H6  H   1 a 0.65639  0.40092  0.22040  1.00000 Dx,Dy,Dz 
+H7  H   1 a 0.12442  0.39006  0.89192  1.00000 Dx,Dy,Dz 
+H8  H   1 a 0.34295  0.22840  -0.03744 1.00000 Dx,Dy,Dz 
+H9  H   1 a 0.10106  0.12568  -0.09531 1.00000 Dx,Dy,Dz 
+H10 H   1 a 0.41626  0.36001  0.63583  1.00000 Dx,Dy,Dz 
+H11 H   1 a 0.16377  0.21291  0.54578  1.00000 Dx,Dy,Dz 
+H12 H   1 a 0.39302  0.07625  0.65412  1.00000 Dx,Dy,Dz 
+H13 H   1 a 0.16496  0.86578  0.12114  1.00000 Dx,Dy,Dz 
+H14 H   1 a 0.44340  0.83036  0.14194  1.00000 Dx,Dy,Dz 
+H15 H   1 a 0.31254  -0.01450 0.32861  1.00000 Dx,Dy,Dz 
+H16 H   1 a 0.21732  0.50341  0.23273  1.00000 Dx,Dy,Dz 
+H17 H   1 a 0.09269  0.66833  0.42907  1.00000 Dx,Dy,Dz 
+H18 H   1 a 0.38797  0.61955  0.44266  1.00000 Dx,Dy,Dz 
+O1  O   1 a 0.28778  0.22409  0.23140  1.00000 Dx,Dy,Dz 
+I1  I   1 a 0.77789  0.73380  0.81967  1.00000 Dx,Dy,Dz 
+
+# end of cif
